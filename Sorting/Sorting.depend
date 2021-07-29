@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627474254 source:e:\practice_codes_and_competitve\data-structure-codes\sorting\main.cpp
+	<iostream>
+	"adder.h"
+
+1627475194 e:\practice_codes_and_competitve\data-structure-codes\sorting\adder.h
+	<iostream>
+
